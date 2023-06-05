@@ -1,1 +1,11 @@
-# Python1
+i =int(input("enter the number:"))
+
+fac=1
+
+while (I>0):
+
+fac=fac*i
+
+I=i-1
+
+print("Factorial=",fac) 
